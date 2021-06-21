@@ -10,7 +10,7 @@
 - 📍 Salvador-BA
 - 💙 Flutter Enthusiast
 - 👨🏽‍🎓 Cursando Sistemas de Informação - UFBA
-- 👨🏽‍💻 Estagiando na Serpro
+- 👨🏽‍💻 Estagiando no Serpro
   
  #
   
