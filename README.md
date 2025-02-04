@@ -8,7 +8,7 @@
 #
 
 - 💙 Flutter Enthusiast
-- 👨🏽‍🎓 Degree in Information Systems from the Federal University of Bahia
+- 👨🏽‍🎓 Degree in Information Systems from the Federal University of Bahia (Universidade Federal da Bahia)
   
  #
   
