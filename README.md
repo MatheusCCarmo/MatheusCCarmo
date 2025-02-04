@@ -8,7 +8,7 @@
 #
 
 - 💙 Flutter Enthusiast
-- 👨🏽‍🎓 Cursando Sistemas de Informação - UFBA
+- 👨🏽‍🎓 Degree in Information Systems from the Federal University of Bahia
   
  #
   
