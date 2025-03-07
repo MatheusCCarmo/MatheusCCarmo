@@ -1,4 +1,4 @@
-# Olá! Seja bem vindo(a)! 👋
+# Hello! Welcome! 👋
  <div>
   <a href="https://github.com/matheusccarmo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusccarmo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -7,7 +7,7 @@
 
 #
 
-- 💙 Flutter Developer with over 4 years of experience in mobile and web applications, specializing in fintech anddigital wallet solutions. Expertise in Clean Architecture, state management (BLoC and Provider), CI/CDautomation, and cross-platform deployment. Dedicated to clean code best practices, organization, andteam collaboration.
+- 💙 Flutter Developer with over 4 years of experience in mobile and web applications, specializing in fintech anddigital wallet solutions. Expertise in Clean Architecture, state management (BLoC and Provider), CI/CD automation, and cross-platform deployment. Dedicated to clean code best practices, organization, and team collaboration.
 - 👨🏽‍🎓 Degree in Information Systems from the Federal University of Bahia (Universidade Federal da Bahia)
   
  #
