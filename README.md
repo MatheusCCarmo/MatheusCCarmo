@@ -7,7 +7,7 @@
 
 #
 
-- 💙 Flutter Developer with over 4 years of experience in mobile and web applications, specializing in fintech anddigital wallet solutions. Expertise in Clean Architecture, state management (BLoC and Provider), CI/CD automation, and cross-platform deployment. Dedicated to clean code best practices, organization, and team collaboration.
+- 💙 Flutter Developer with over 6 years of experience in mobile and web applications, specializing in fintech and digital wallet solutions. Expertise in Clean Architecture, state management (BLoC and Provider), CI/CD automation, and cross-platform deployment. Dedicated to clean code best practices, organization, and team collaboration.
 - 👨🏽‍🎓 Degree in Information Systems from the Federal University of Bahia (Universidade Federal da Bahia)
   
  #
